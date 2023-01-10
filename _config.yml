@@ -1,14 +1,13 @@
-baseurl: "/northendlab-jekyll" # the subpath of your site, e.g. blog/
-url: "https://demo.themefisher.com" # the base hostname & protocol for your site, e.g. http://example.com/
+#baseurl: "/" # the subpath of your site, e.g. blog/
+url: "https://opusnoia.com" # the base hostname & protocol for your site, e.g. http://example.com/
 
-title: Northendlab Jekyll | Personal Blog Template
+title: OpusNoia is not a Job! It is a Blog!
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-
+ OpusNoia is not job. Instead, it is a blog. In reality, it is something much more than that: it is a hobby! 
+ A hobby that helps me stay sharp and alive. Even when everything else seems pointless, this is a sign of freedom.
+ 
 #################### Comment Section (Disqus) ################
-disqus_shortname: "" # Add your shortname for Disqus Comment. For example : mr-brown
+disqus_shortname: "Opus" # Add your shortname for Disqus Comment. For example : mr-brown
 
 # Scss Directory
 sass:

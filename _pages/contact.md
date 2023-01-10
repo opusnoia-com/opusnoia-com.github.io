@@ -1,8 +1,7 @@
 ---
 layout: contact
 title: "Contact Us"
-description : "this is meta description"
-image: "/assets/images/contact.svg"
+description : "Let's talk!"
+image: "/assets/images/mail.png"
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labor.
+It would be fantastic if you could contact me! Let's send some emails.
